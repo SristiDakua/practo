@@ -3,9 +3,7 @@
 A comprehensive healthcare platform built with Next.js, providing users with access to medical services, doctor consultations, and health management tools.
 
 ## 🔗 Live Demo
-
-- **Frontend**: [Your Vercel/Netlify URL here]
-- **API Endpoints**: [Your deployed API URL here]
+https://practo-vra1.vercel.app/
 
 ## 🛠️ Tech Stack
 

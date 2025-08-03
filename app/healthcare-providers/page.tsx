@@ -616,7 +616,7 @@ export default function HealthcareProvidersPage() {
                 </div>
                 <h2 className="text-2xl font-bold text-green-800 mb-4">Join the Practo Network</h2>
                 <p className="text-green-700 mb-6 max-w-2xl mx-auto">
-                  Become a part of India's leading healthcare platform and reach millions of patients. 
+                  Become a part of India&apos;s leading healthcare platform and reach millions of patients. 
                   Expand your practice, increase visibility, and provide better patient care.
                 </p>
                 <Button onClick={() => setJoinDialog(true)} size="lg" className="bg-green-600 hover:bg-green-700">

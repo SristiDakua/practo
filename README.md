@@ -4,8 +4,8 @@ A comprehensive healthcare platform built with Next.js, providing users with acc
 
 ## 🔗 Live Demo
 
-**Frontend**: [Your Vercel/Netlify URL here]
-**API Endpoints**: [Your deployed API URL here]
+- **Frontend**: [Your Vercel/Netlify URL here]
+- **API Endpoints**: [Your deployed API URL here]
 
 ## 🛠️ Tech Stack
 
@@ -282,6 +282,4 @@ For any questions about this project implementation:
 - All API endpoints are documented with sample requests/responses
 - Responsive design tested on mobile, tablet, and desktop
 
----
 
-**This project fulfills all assignment requirements and is ready for submission with proper deployment.**
